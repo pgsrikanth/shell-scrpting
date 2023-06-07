@@ -6,8 +6,8 @@
 #examples:
 #in script
 a=10
-echo $a
-ouput is 10
+echo ouput is $a
+
 
 
 DATE=$(date)
